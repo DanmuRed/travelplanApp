@@ -10,15 +10,43 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		RzJonqxGNLPVh94vPPlhvlK+jeE=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		6c9lzvEXwOIjE/hEzaj7pQIsysw=
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		iPexya5T+ZHvRVqGidKhSs+Iegc=
+		BG/wumIO9x0BdQpG9dMlpxRYdJE=
+		</data>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-Black.otf</key>
+		<data>
+		PKXe0b1I7KYs5pDVd1mcxTpq+IA=
+		</data>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-Bold.otf</key>
+		<data>
+		agS0++uaGl2WpbJbfnz73RI/vNA=
+		</data>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-ExtraBold.otf</key>
+		<data>
+		vwf6rfI9ds8Thj5LIdDkdlMQIcw=
+		</data>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-Light.otf</key>
+		<data>
+		blN7j0PpWHkMTyvVsxQmLVdeUZU=
+		</data>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-Medium.otf</key>
+		<data>
+		sFrbmsiXddfyJzMhb/f6n+A2SFM=
+		</data>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-Regular.otf</key>
+		<data>
+		ScYvRzgzTYEvRAfb3CeiEIx8J1Y=
+		</data>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-SemiBold.otf</key>
+		<data>
+		m6tGQurlWMnH8wjI0b4z+fQSotQ=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -30,7 +58,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		AeHeEcYGLHnjjcAefiO4GVtCJ4Y=
+		ucMl5tGXRH1xj6fj0UyjoLwyRAU=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -47,21 +75,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			sBCiRyWGjKwgFCy+jXiHpG2I2hlPlabFbCAuK7XOuI4=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			zfguGNHA7GQ96FobKPLKIvTNgZ8kfPXiHfNnD2Auz6w=
 			</data>
 		</dict>
 		<key>flutter_assets/NOTICES.Z</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q06/MabRYawEK7oGqvTt2TbKAxsf6v10ZZw/Hk1YvVA=
+			fZt6HJ1vt4vdZ9OD5kydShFLkX3OwWIydpvJdx3AJWA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-Black.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oD1uxvMI+tLsaYuHS2otZ/WHaZrUwW9tKugvs9A2ih4=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-Bold.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A6Ww6G9N4KJbZVRDNs9lPvRIlBiALseJ3qz/m4Uk61U=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-ExtraBold.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6VVi5BcFXjmSeA/92wcLSGWEpP4USdAwUEHBd7+bUxE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-Light.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uaKKSbg7KbNHp2ODmWpbzcMWysDq9WZECIfEWcbBoYA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-Medium.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z18d5iYyTDb4facUBtV66xmSHwOPcYOARb1WRX9x/Ws=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-Regular.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cigAe3/EL9KB2abYY+d+DaFUxmKKdSe9biBo9jH/SVI=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/pretendard/Pretendard-SemiBold.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6sKMz9H3TnosAbDtGmVLS65Q3pezlGedKtGdz8NEnwE=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -82,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KQ7U6qTQm+Xbcbi+Ao4Oqpqldq3lkVRwxsWRalU6qgE=
+			5pMedpLsJ/0E41l5NibOFPf2BSpB0zUcGQ0sUPuxlVY=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
