@@ -56,9 +56,11 @@ class _MainPageState extends State<MainPage> {
       ),
       bottomNavigationBar: BottomNavigationBar(
         backgroundColor: Colors.white,
-        onTap: _onTapFunc,
+        onTap: (index) => setState(() {
+          currentIndex = index;
+        }),
         currentIndex: currentIndex,
-        type: BottomNavigationBarType.shifting,
+        type: BottomNavigationBarType.fixed,
         items: List.generate(
             bottomNavBarItem.length,
             (index) => BottomNavigationBarItem(
@@ -68,11 +70,6 @@ class _MainPageState extends State<MainPage> {
                     : bottomNavBarItem[index])),
       ),
     );
-  }
-
-  _onTapFunc(int index) {
-    currentIndex = index;
-    setState(() {});
   }
 
   String _bottomNavLabel(int index) {

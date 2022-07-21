@@ -9,7 +9,9 @@ class AppDesign {
           titleTextStyle: TextStyle(color: Colors.black),
           backgroundColor: Colors.lightGreen,
           iconTheme: IconThemeData(color: Colors.black)),
-      fontFamily: 'AppleSDGothicNeoM',
+      bottomNavigationBarTheme: const BottomNavigationBarThemeData(
+          selectedItemColor: Colors.black,
+          unselectedItemColor: Colors.blueGrey),
       primaryColor: const Color(0xFFFFFFFF),
       scaffoldBackgroundColor: Colors.white);
 }
